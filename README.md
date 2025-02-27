@@ -1,17 +1,17 @@
 # Установка
 
 ### 1. Клонируйте репозиторий
-   `git clone https://github.com/leshenya06/MIREA_fb_5-6.git`
+   ```git clone https://github.com/leshenya06/MIREA_fb_5-6.git```
 
 ### 3. Перейдите в директорию проекта
-   `cd MIREA_fb_5-6`
+   ```cd MIREA_fb_5-6```
 
 ### 4. Установите зависимости
    Убедитесь, что у вас установлен Node.js. Затем выполните команду
-   `npm install`
+   ```npm install```
 
 # Запуск
 ### 1. Запуск сервера приложения
-   `node admin_server.js`
+   ```node admin_server.js```
 ### 2. Запуск админ-панели
-   `node client_server.js`
+   ```node client_server.js```
